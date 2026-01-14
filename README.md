@@ -47,7 +47,7 @@ Mi trabajo combina proyectos privados de alto impacto con repositorios públicos
 
 ## ✨ Enfoque Profesional
 
-- **Diseño responsivo y accesible**: Experiencia en sitios web adaptados a diferentes dispositivos, ideal para proyectos comunitarios como el de una iglesia cristiana.  
+- **Diseño responsivo y accesible**: Experiencia en sitios web adaptados a diferentes dispositivos, garantizando usabilidad y alcance.
 - **Integración tecnológica**: Desde aplicaciones móviles hasta analítica de datos y soluciones en la nube.  
 - **Innovación y escalabilidad**: Capacidad de transformar ideas en plataformas sostenibles y de alto impacto.  
 
